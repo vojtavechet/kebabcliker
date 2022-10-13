@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Nabla&display=swap");
+body{
+    background-image:url(/res/img/43087788957-offset-8858-preview-480x272.jpg) ;
+  background-repeat:  no-repeat;
+background-size: cover ;}
+#counter {
+  text-align: center;
+  font-family: "Nabla", cursive;
+  font-size: 60px;
+}
+#cookie {
+    padding-top: 13%;
+  max-width: 600px;
+  width: 200%;
+  display: block;
+  margin: 0 auto;
+  transition: width 2s, height s;
+}
+.tlacitko {
+  text-align: center;
+  margin:0 auto;
+}
+
